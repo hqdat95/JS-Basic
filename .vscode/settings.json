@@ -1,0 +1,19 @@
+{
+  "workbench.editorAssociations": {
+    "*.md": "vscode.markdown.preview.editor"
+  },
+
+  "editor.tokenColorCustomizations": {
+    "[One Dark Pro]": {
+      "comments": "#5ae0b8",
+      "textMateRules": [
+        {
+          "scope": ["comment.block.documentation"],
+          "settings": {
+            "fontStyle": "normal"
+          }
+        }
+      ]
+    }
+  }
+}

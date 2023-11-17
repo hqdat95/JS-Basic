@@ -1,0 +1,7 @@
+| Loại Vòng Lặp | Mô Tả                                                                                                                                                                                      |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| for           | Lặp đi lặp lại một khối mã miễn là điều kiện xác định là đúng. Thường được sử dụng khi bạn biết số lần lặp trước.                                                                          |
+| for/in        | Lặp qua các khóa của một đối tượng. Đặc biệt hữu ích khi làm việc với `object`, cho phép bạn truy cập từng thuộc tính một.                                                                 |
+| for/of        | Lặp qua các giá trị của một `object` có thể lặp qua, như `array`, `string`, `map`, `set`, v.v. Cung cấp cách gọn gàng để truy cập từng giá trị trực tiếp.                                  |
+| while         | Lặp lại khối mã miễn là điều kiện xác định là đúng. Hữu ích khi số lần lặp không chắc chắn và được xác định bởi điều kiện.                                                                 |
+| do/while      | Lặp ít nhất một lần, sau đó tiếp tục lặp miễn là điều kiện xác định vẫn đúng. Tương tự với vòng lặp `while`, nhưng đảm bảo thực hiện khối mã ít nhất một lần trước khi kiểm tra điều kiện. |
